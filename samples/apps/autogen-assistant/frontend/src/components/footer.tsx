@@ -9,12 +9,12 @@ const Footer = () => {
           {" "}
           <Icon icon="app" size={8} />
         </span>{" "}
-        Maintained by the AutoGen{" "}
+        Maintained by the Sparticle{" "}
         <a
           target={"_blank"}
           rel={"noopener noreferrer"}
           className="underlipne inline-block border-accent border-b hover:text-accent"
-          href="https://microsoft.github.io/autogen/"
+          href="https://www.sparticle.com/"
         >
           {" "}
           Team.

@@ -7,8 +7,8 @@ require("dotenv").config({
 const config: GatsbyConfig = {
   pathPrefix: `${process.env.PREFIX_PATH_VALUE}`,
   siteMetadata: {
-    title: `AutoGen Assistant`,
-    description: `Build Multi-Agent Apps`,
+    title: `Aflac保険コンサル＜Demo＞`,
+    description: `Multi-Agent AI Assitant`,
     siteUrl: `http://tbd.place`,
   },
   flags: {
